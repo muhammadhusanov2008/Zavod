@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+ul{
+    list-style: none;
+}
+.text{
+    text-align: center;
+}
+.text img{
+    width: 300px;
+}
+.text img{
+    width: 500px;
+}
+.btnm{
+    padding: 10px;
+    background: #336633;
+    color: white;
+    border: none;
+}
+.btnm:hover{
+    font-weight: bold;
+    background: rgb(94, 94, 94);
+    color: #ffffff;
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+}
+.menu img{
+    width: 200px;
+}
+.crdlar img{
+    width: 300px;
+    height: 300px;
+}
+.crdlar{
+    margin: 30px;
+}
+.col-12{
+    text-align: center;
+}
+.youtube{
+    display: flex;
+    padding-left: 100px;
+    margin: 20px;
+    margin-left: 50px;
+}
+.nimadur{
+    display: flex;
+    padding-left: 100px;
+    margin: 20px;
+    margin-left: 50px;
+}
+.icon{
+    margin-left: 10px;
+}
+.bnt{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    background: #336633;
+    color: #ffffff;
+    border: none;
+}
+.bnt:hover{
+    font-weight: bold;
+    background: rgb(94, 94, 94);
+    color: #ffffff;
+}
+.oxirgi{
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+.oxirgi img{
+    width: 400px;
+}
+.keyingi{
+    margin-top: 80px;
+}
+.footer{
+    background: #474747;
+    color: white;
+}
+.footer img{
+    margin: 30px;
+    width: 200px;
+    margin-top: 30px;
+}
